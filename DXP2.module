@@ -1,0 +1,10 @@
+[global]
+UIName = Bloodline
+Description = DoW Expansion Pack
+DllName = WXPMod
+Playable = 1
+ModFolder = DXP2
+ModVersion = 1.0
+TextureFE = Art/UI/Textures/Title_winter_assault.tga
+TextureIcon =
+DataFolder.1 = Data
