@@ -1,4 +1,4 @@
-----<Begin Script Here >----
+----<Begin Script Here >---- Котики
 run = Cpu_ControlLocalPlayer()
 run = setsimrate(35)
 
